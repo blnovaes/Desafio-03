@@ -7,7 +7,6 @@
  * Created: 29 de ago. de 2025
  */
 Insert into TB_CLIENT (NAME , CPF , INCOME , BIRTH_DATE , CHILDREN ) values ( 'Gabriel Silva', '31950252051',5035.39, '2009-06-05',0)
-Insert into TB_CLIENT (NAME , CPF , INCOME , BIRTH_DATE , CHILDREN ) values ( 'Maria Silva', '12345678901',6500.0, '1994-07-20',2)
 Insert into TB_CLIENT (NAME , CPF , INCOME , BIRTH_DATE , CHILDREN ) values ( 'Leandro Ramos', '64554996034',601.63, '2010-09-23',2)
 Insert into TB_CLIENT (NAME , CPF , INCOME , BIRTH_DATE , CHILDREN ) values ( 'Marcos de Carvalho', '69200309003',92.93, '2005-06-12',1)
 Insert into TB_CLIENT (NAME , CPF , INCOME , BIRTH_DATE , CHILDREN ) values ( 'Leandro Gomes', '19609718086',48.5, '2004-11-30',2)
