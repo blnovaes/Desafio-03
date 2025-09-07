@@ -5,8 +5,6 @@
 package com.novaes.Desafio03.repositories;
 
 import com.novaes.Desafio03.entities.Client;
-import org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties;
-import org.springframework.data.domain.Page;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
